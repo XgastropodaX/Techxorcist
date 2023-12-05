@@ -1,5 +1,6 @@
 ﻿title: Start
 tags:
+position: -212,-193
 ---
 Narrator: Oh, hello!
     -> Hi, where am I?
@@ -11,11 +12,13 @@ Narrator: Oh, hello!
 ===
 
 title: Oh
+position: -167,170
 ---
 Narrator: Yeah, fun, right?
 ===
 
 title: Unity
+position: 153,-227
 ---
 Narrator: Someone read the Beginner's Guide!
 ===
